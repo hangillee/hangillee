@@ -5,8 +5,7 @@
 ☕ [깃허브 블로그](https://hangillee.github.io)
   
 </div>
-
----
+<br>
 
 ### 📚 Learning about
 ![Java](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white)
@@ -17,17 +16,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
+   
 ### 💾 With GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangillee&show_icons=true&theme=radical)   
-
----
-
+   
 ### 📞 Contact
-- coderoad.io@gmail.com
-
+* coderoad.io@gmail.com
+   
 <!--
 **hangillee/hangillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
