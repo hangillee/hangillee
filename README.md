@@ -2,7 +2,7 @@
   
 ### 🎯 ROAD TO GOOD DEVELOPER 🏃‍♂️
 #### 좋은 개발자를 꿈꾸는 대학생입니다.
-☕ [GitBlog](https://hangillee.github.io)
+☕ [Blog](https://blog.coderoad.kr)
   
 </div>
 <br>
