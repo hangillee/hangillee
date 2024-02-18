@@ -26,6 +26,11 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [우아한테크코스 4주 차를 돌아보며](https://blog.coderoad.kr/precourse-week4)
+- [우아한테크코스 3주 차를 돌아보며](https://blog.coderoad.kr/precourse-week3)
+- [우아한테크코스 2주 차를 돌아보며](https://blog.coderoad.kr/precourse-week2)
+- [우아한테크코스 1주 차를 돌아보며](https://blog.coderoad.kr/precourse-week1)
+- [값 타입](https://blog.coderoad.kr/value-type)
 <!-- BLOG-POST-LIST:END -->
    
 <!--
