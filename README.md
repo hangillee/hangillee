@@ -11,12 +11,12 @@
 ![Java](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
    
 ### 💾 With GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangillee&show_icons=true&theme=radical)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangillee&layout=compact&exclude_repo=game-for-hedge)](https://github.com/hangillee)   
    
 ### 💡 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skfcb10)](https://solved.ac/skfcb10)
