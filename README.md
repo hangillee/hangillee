@@ -20,7 +20,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hangillee" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangillee&layout=compact&langs_count=8&card_width=320&exclude_repo=game_for_hedge,python-gui-calculator,js-basic-book" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangillee&layout=compact&langs_count=8&card_width=320&exclude_repo=game-for-hedge,python-gui-calculator,js-basic-book" />
 </a>
    
 ### 💡 Problem Solving
