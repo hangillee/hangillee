@@ -13,10 +13,15 @@
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
    
 ### 💾 With GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangillee&show_icons=true&theme=radical)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangillee&layout=compact&exclude_repo=game-for-hedge)](https://github.com/hangillee)   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hangillee" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hangillee&layout=compact&langs_count=8&card_width=320&exclude_repo=game_for_hedge,python-gui-calculator,js-basic-book" />
+</a>
    
 ### 💡 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skfcb10)](https://solved.ac/skfcb10)
