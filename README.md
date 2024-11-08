@@ -1,7 +1,7 @@
 ### Hello, I'm Hangil Lee! 👋
 > 함께 성장할 수 있는 개발자 생태계를 만들고 싶습니다.
 - [Blog](https://blog.hangilog.kr)
-- [PDF Resume](https://github.com/hangillee/hangillee/raw/refs/heads/main/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf)
+- [PDF Resume](https://github.com/hangillee/hangillee/raw/refs/heads/main/%EC%9D%B4%ED%95%9C%EA%B8%B8_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
 ### Learning about
 ![Java](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=openjdk&logoColor=white)<br/>
