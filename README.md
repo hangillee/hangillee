@@ -13,11 +13,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [우아한테크코스 레벨1 - 체스](https://blog.coderoad.kr/woowacourse-level1-mission4)
-- [우아한테크코스 레벨1 - 블랙잭](https://blog.coderoad.kr/woowacourse-level1-mission3)
-- [우아한테크코스 레벨1 - 사다리 타기](https://blog.coderoad.kr/woowacourse-level1-mission2)
-- [우아한테크코스 레벨1 - 자동차 경주](https://blog.coderoad.kr/woowacourse-level1-mission1)
-- [우아한테크코스 최종 코딩 테스트 회고](https://blog.coderoad.kr/woowacourse-final-test)
+- [Spring Data JPA와 쿼리](https://blog.hangilog.kr/spring-data-jpa-query)
+- [우아한테크코스 레벨1 - 체스](https://blog.hangilog.kr/woowacourse-level1-mission4)
+- [우아한테크코스 레벨1 - 블랙잭](https://blog.hangilog.kr/woowacourse-level1-mission3)
+- [우아한테크코스 레벨1 - 사다리 타기](https://blog.hangilog.kr/woowacourse-level1-mission2)
+- [우아한테크코스 레벨1 - 자동차 경주](https://blog.hangilog.kr/woowacourse-level1-mission1)
 <!-- BLOG-POST-LIST:END -->
 
 ### Contact
