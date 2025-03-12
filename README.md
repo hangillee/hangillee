@@ -1,7 +1,8 @@
 ### Hello, I'm Hangil Lee! 👋
-> 함께 성장할 수 있는 개발자 생태계를 만들고 싶습니다.
-- [Blog](https://blog.hangilog.kr)
-- [PDF Resume](https://github.com/hangillee/hangillee/raw/refs/heads/main/%EC%9D%B4%ED%95%9C%EA%B8%B8_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+* 개발자의 길을 걸으려는 모든 사람들을 돕고 싶습니다.
+* 읽기 쉬운 코드야말로 가장 깨끗한 코드에 가깝다고 생각합니다.
+* 모든 문제는 더 나은 해결법을 찾을 수 있다고 생각합니다.
+* 함께 나아가는 동료에게 항상 힘이 되고자 노력합니다.
 
 ### Learning about
 ![Java](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=openjdk&logoColor=white)<br/>
@@ -22,6 +23,8 @@
 
 ### Contact
 * coderoad.io@gmail.com
+* [Blog](https://blog.hangilog.kr)
+* [PDF Resume](https://github.com/hangillee/hangillee/raw/refs/heads/main/%EC%9D%B4%ED%95%9C%EA%B8%B8_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
    
 <!--
 **hangillee/hangillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
