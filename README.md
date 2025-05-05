@@ -24,7 +24,6 @@
 ### Contact
 * coderoad.io@gmail.com
 * [Blog](https://blog.hangilog.kr)
-* [PDF Resume](https://github.com/hangillee/hangillee/raw/refs/heads/main/%EC%9D%B4%ED%95%9C%EA%B8%B8_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
    
 <!--
 **hangillee/hangillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
