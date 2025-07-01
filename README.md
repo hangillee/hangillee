@@ -5,12 +5,18 @@
 * 함께 나아가는 동료에게 항상 힘이 되고자 노력합니다.
 
 ### Learning about
+#### Language
 ![Java](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=openjdk&logoColor=white)<br/>
-![Spring](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)<br/>
+
+#### Framework
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)<br/>
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)<br/>
+
+#### Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)<br/>
-![AWS](https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)<br/>
-![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SupaBase](https://img.shields.io/badge/supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white)<br/>
+![AWS](https://img.shields.io/badge/AWS-%23141f2e?style=for-the-badge&logo=aws&logoColor=white)
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
