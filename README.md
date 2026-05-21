@@ -15,11 +15,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [샤딩과 파티셔닝](https://blog.hangilog.kr/sharding-partitioning)
 - [Tomcat과 함께하는 API 성능 개선기](https://blog.hangilog.kr/tomcat-performance)
 - [Spring Data JPA와 쿼리](https://blog.hangilog.kr/spring-data-jpa-query)
 - [우아한테크코스 레벨1 - 체스](https://blog.hangilog.kr/woowacourse-level1-mission4)
 - [우아한테크코스 레벨1 - 블랙잭](https://blog.hangilog.kr/woowacourse-level1-mission3)
-- [우아한테크코스 레벨1 - 사다리 타기](https://blog.hangilog.kr/woowacourse-level1-mission2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Contact
