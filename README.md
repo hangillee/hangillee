@@ -16,7 +16,8 @@
 ### Contact
 * coderoad.io@gmail.com
 * regan@joodra.com
-* [Blog](https://blog.hangilog.kr)
+* [@reganjoodra](https://github.com/reganjoodra)
+* [@regan414](https://github.com/regan414)
    
 <!--
 **hangillee/hangillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
